@@ -1,0 +1,43 @@
+nav{
+    margin-bottom:0px !important;
+}
+.header{
+    background-color: aliceblue;
+    height:100%;
+}
+.brandName{
+    margin-top: 1% !important;
+    float: right;
+    color: black;
+    font-size: 30px !important;
+}
+.links{
+    margin-top: 2% !important;
+    float: right !important;
+}
+.links *{
+    
+    margin: 10px !important;
+}
+.nav_link{
+    display: table-cell;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  border-bottom: 3px solid transparent;
+}
+.nav_link:hover{
+    text-decoration: none;
+    color: darkblue;
+    border-bottom: 3px solid blue;
+}
+.logo{
+    float: left;
+    height:1%;
+    width:1%;
+}
+.header_navbar{
+    border-bottom-color: darkblue;
+}
