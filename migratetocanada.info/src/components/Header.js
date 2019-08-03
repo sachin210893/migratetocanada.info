@@ -22,6 +22,10 @@ class  Header extends React.Component{
                                         </Navbar.Brand>
                                 
                                         <Navbar.Brand href="#home" className="brandName">migratetocanada.info</Navbar.Brand>
+                                        <Nav className="contact_details_header">
+                                                <p className="phone_canada">+1 2266069730</p>
+                                                <p className="email">contact@migratetocanada.info</p>
+                                        </Nav>
                                         <Nav className="mr-auto links">
                                                 <Nav.Link href="#home" className="nav_link">Home</Nav.Link>
                                                 <Nav.Link href="#immigration" className="nav_link">Immigration</Nav.Link>

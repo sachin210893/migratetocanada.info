@@ -41,3 +41,9 @@ nav{
 .header_navbar{
     border-bottom-color: darkblue;
 }
+.contact_details_header{
+    float: right !important;
+}
+.email{
+    margin-left: 2%;
+}
